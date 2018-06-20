@@ -1,4 +1,7 @@
 #!/bin/bash
+
+	echo "Jestem sobie na git hubie :P"
+
 	echo "podaj ilosc kolumn"
 		read m
 	echo "podaj ilosc wierszy"
